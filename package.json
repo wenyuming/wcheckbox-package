@@ -1,8 +1,8 @@
 {
-	"name": "npm-study-hamupp",
-	"version": "1.0.4",
+	"name": "wcheckbox",
+	"version": "1.0.0",
 	"description": "",
-	"main": "dist/helloMsg.min.js",
+	"main": "dist/wcheckbox.min.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "webpack-dev-server --hot --inline",
@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/hamuPP/npmStudy.git"
+		"url": "git+https://github.com/wenyuming/wcheckbox-package.git"
 	},
 	"author": "wenyuming",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/hamuPP/npmStudy/issues"
+		"url": "https://github.com/wenyuming/wcheckbox-package.git"
 	},
-	"homepage": "https://github.com/hamuPP/npmStudy#readme",
+	"homepage": "https://github.com/wenyuming/wcheckbox-package.git",
 	"devDependencies": {
 		"babel-core": "^6.26.0",
 		"babel-loader": "^7.1.2",
